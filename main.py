@@ -23,7 +23,7 @@ import time
 from collections import Counter
 
 # ── CONFIG ────────────────────────────────────────────────────
-MODEL_PATH           = 'tomato_model.keras'   # updated from .h5
+MODEL_PATH = 'TomatoTesting/tomato_model.keras'   # updated from .h5
 IMG_SIZE             = 300                     # must match training
 CONFIDENCE_THRESHOLD = 0.65
 SEVERITY_THRESHOLD   = 0.30                   # 30% leaf area
